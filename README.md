@@ -6,7 +6,7 @@ Program is using two files (attached in resources):
 Functional requirements:
 1. Program should read both files on start.
 2. Before performing other operation, user should to able to log in. User should also
-be able tolog out and switch to other account.
+be able to log out and switch to other account.
 3. Operations available for logged on users:
 - help/withdraw/deposit/exit/transfer/undo/balance
 4. Logged on users, through all session until they log out should be able to check 
