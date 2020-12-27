@@ -1,6 +1,6 @@
 Simple ATM.
 Program is using two files (attached in resources):
-- users.csv - storing user login, password and accouunt number
+- users.csv - storing user login, password and account number
 - accounts.csv - storing account number and balance.
 
 Functional requirements:
